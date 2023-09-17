@@ -71,5 +71,4 @@ while not loop:
     elif translateAgain == "N".lower():
         exit()
     else:
-        print("die") 
         exit() 
