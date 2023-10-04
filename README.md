@@ -16,3 +16,6 @@ uses google cloud translator
 4) run `python -m nuitka translator.py` or if you want to move around the compiled version `python -m nuitka translator.py --standalone`
 5) `./translator` or translator.exe, drag and drop your config.json
 6) fin
+
+# credits
+@f-underscore for helping with development
